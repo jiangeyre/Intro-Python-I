@@ -32,7 +32,7 @@ print(len(x))
 
 # Print all the values in x multiplied by 1000
 
-z = [i x 1000 for i in x]
+z = [i * 1000 for i in x]
 print(z)
 
 # for i in x:
